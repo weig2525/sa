@@ -3,7 +3,7 @@
 
 | Team Member                | Contribution (%) | Tasks                                                                 |
 |----------------------------|------------------|-----------------------------------------------------------------------|
-| **Kanan Manafov** (Leader) | 25               | - idea and sources <br> - Web Scraping (Part 1) <br> - Visualization <br> - Proofreading in Web Scraping, Data Cleaning, ML - README <br> |
+| **Kanan Manafov** (Leader) | 25               | - idea and sources <br> - Web Scraping (Part 1) <br> - Visualization <br> - Proofreading in Web Scraping, Data Cleaning, ML - <br> README |
 | **Ibish Aliyev**           | 25               | - idea and sources <br> - Data Cleaning (Part 2) <br> - Visualization <br> - Proofreading in Web Scraping, Data Cleaning, ML |
 | **Ibrahim Asgarov**        | 25               | - idea and sources <br> - Data Cleaning <br> - ML <br> - Proofreading in Web Scraping, Data Cleaning, ML |
 | **Ramil Zeynalov**         | 25               | - idea and sources <br> - Web Scraping (Part 1) <br> - ML <br> - Proofreading in Web Scraping, Data Cleaning, ML |
